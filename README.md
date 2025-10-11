@@ -7,7 +7,7 @@ I'm a junior developer passionate about building clean, user-friendly applicatio
 ## 🧠 What I Know
 
 - 💻 **Languages**: Dart, JavaScript, Python, HTML, CSS, C#, Java
-- 📱 **Frameworks**: Flutter, React(Learning)
+- 📱 **Frameworks**: Flutter, React(Learning), Spring Boot(Learning)
 - 🌐 **Backend**: Node.js (with MongoDB), PHP
 - 🧰 **Tools**: Git, GitHub, Postman, VS Code
 
