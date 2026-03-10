@@ -1,6 +1,6 @@
 # Hi, I'm Jude 👋
 
-I'm a junior developer passionate about building clean, user-friendly applications with a focus on **Flutter**, **Dart**, and web technologies. Currently, I'm brushing up on **React** and exploring how I can build full-stack solutions that solve real-world problems.
+I'm a developer passionate about building clean, user-friendly applications with a focus on **Flutter**, **Dart**, and web technologies. Currently, I'm brushing up on **React** and exploring how I can build full-stack solutions that solve real-world problems.
 
 ---
 
