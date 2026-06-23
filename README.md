@@ -81,8 +81,8 @@
 
 ## 🚀 What I'm Working Towards
 
-- 📚 Deepening my skills in **JavaScript**, **REST APIs**, and **backend development**
-- 💼 Landing a **part-time junior dev or internship role** in Canada *(international student — 24 hrs/week)*
+
+- 💼 Landing a **part-time junior dev or internship role** in Canada
 - 🌱 Building projects that solve real problems and grow my experience
 
 ---
