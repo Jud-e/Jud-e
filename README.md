@@ -53,14 +53,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔐 [**Pharm**](https://github.com/Jud-e/pharm) | Full-stack doctor-patient appointment booking app | Flutter · Node.js · MongoDB |
-| 📄 [**Resume App**](https://github.com/Jud-e/resume_app) | Portfolio app showcasing profile and skills | Flutter · Dart |
-| 🌍 [**Country Details**](https://github.com/Jud-e/country_details) | API integration and data handling demo | Flutter · REST API |
-| 💸 [**Bankee**](https://github.com/Jud-e/bankee) | Budgeting app prototype focused on UI/UX | Flutter · Dart |
 
 ---
 
