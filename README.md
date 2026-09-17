@@ -1,87 +1,53 @@
-<div align="center">
+# Jude Enuanwa
 
-<a href="https://jud-e.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jude+%F0%9F%91%8B%F0%9F%8F%BE;Junior+Software+Developer;Flutter+%C2%B7+Java+%C2%B7+Web+Tech" alt="Typing SVG" />
-</a>
+Software engineer focused on **full-stack and backend development**.
 
-<p>
-  I build clean, user-focused apps — from mobile to full-stack.<br/>
-  Currently exploring <strong>React</strong>, <strong>Spring Boot</strong>, and everything in between.
-</p>
+I build applications with **Java, Spring Boot, React, TypeScript, and Node.js**, with additional experience in Flutter, Android, and Firebase.
 
-<a href="https://jud-e.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/jude-enuanwa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jude.enuanwa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Currently completing a **Post-Baccalaureate Diploma in Computer & Information Sciences at Douglas College** and preparing for **junior/new-grad software engineering roles**.
 
-</div>
+## Featured Projects
 
----
+### [DevBrief](https://github.com/Jud-e/devbrief)
 
-## 🛠️ Tech Stack
+AI-powered technology news digest built with React, TypeScript, Node.js/Express, and the Claude API.
 
-<div align="center">
+* REST API for aggregating technology news
+* Concurrent AI enrichment for summaries and metadata
+* In-memory TTL caching and API rate limiting
+* Deployed full-stack application
 
-**Mobile**
+### Goalie
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Spring Boot tournament management platform built as a 4-person Agile team project.
 
-**Frontend**
+* Spring Security authentication and role-based access control
+* Relational data modelling with Spring Data and H2
+* Tournament, team, match, notification, and messaging workflows
+* MockMvc-based application testing
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### MeetEm
 
-**Backend & Tools**
+Flutter event-discovery application exploring event discovery, maps, authentication, and group-based features.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Currently
 
-</div>
+* 🎓 Completing my final semester at Douglas College
+* 💻 Preparing for junior/new-grad software engineering roles
+* 🌱 Starting to contribute to open-source projects
+* 🔧 Strengthening my Java/Spring Boot and React/TypeScript skills
 
----
+## Technologies
 
+**Languages:** Java · TypeScript · JavaScript · SQL · Python · Kotlin
 
----
+**Backend:** Spring Boot · Spring Security · Node.js · Express · REST APIs
 
-## 📊 GitHub Stats
+**Frontend:** React · Flutter · Android
 
-<div align="center">
+**Data & Tools:** H2 · Firebase · Git · GitHub · GitHub Actions · JUnit · MockMvc
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jud-e&theme=tokyonight" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jud-e&theme=tokyonight" />
+## Connect
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Jud-e&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 What I'm Working Towards
-
-
-- 💼 Landing a **part-time junior dev or internship role** in Canada
-- 🌱 Building projects that solve real problems and grow my experience
-
----
-
-<div align="center">
-  <sub>
-    Open to collaborations, feedback, or just a chat. Feel free to explore my repos! ⭐<br/>
-    <em>"Learning never exhausts the mind." – Leonardo da Vinci</em>
-  </sub>
-</div>
+* [LinkedIn](https://www.linkedin.com/in/jude-enuanwa/)
+* [Portfolio](https://jud-e.github.io/)
