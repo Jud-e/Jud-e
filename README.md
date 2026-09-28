@@ -6,30 +6,6 @@ I build applications with **Java, Spring Boot, React, TypeScript, and Node.js**,
 
 Currently completing a **Post-Baccalaureate Diploma in Computer & Information Sciences at Douglas College** and preparing for **junior/new-grad software engineering roles**.
 
-## Featured Projects
-
-### [DevBrief](https://github.com/Jud-e/devbrief)
-
-AI-powered technology news digest built with React, TypeScript, Node.js/Express, and the Claude API.
-
-* REST API for aggregating technology news
-* Concurrent AI enrichment for summaries and metadata
-* In-memory TTL caching and API rate limiting
-* Deployed full-stack application
-
-### Goalie
-
-Spring Boot tournament management platform built as a 4-person Agile team project.
-
-* Spring Security authentication and role-based access control
-* Relational data modelling with Spring Data and H2
-* Tournament, team, match, notification, and messaging workflows
-* MockMvc-based application testing
-
-### MeetEm
-
-Flutter event-discovery application exploring event discovery, maps, authentication, and group-based features.
-
 ## Currently
 
 * 🎓 Completing my final semester at Douglas College
