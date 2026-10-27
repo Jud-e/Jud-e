@@ -1,6 +1,6 @@
 # Jude Enuanwa
 
-Software engineer focused on **full-stack and backend development**.
+Software engineer focused on **full-stack and backend development**/ **technology compliance**
 
 I build applications with **Java, Spring Boot, React, TypeScript, and Node.js**, with additional experience in Flutter, Android, and Firebase.
 
